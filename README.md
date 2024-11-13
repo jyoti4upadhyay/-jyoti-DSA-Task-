@@ -367,6 +367,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -379,4 +380,12 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0908-middle-of-the-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
