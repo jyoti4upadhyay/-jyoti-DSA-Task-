@@ -368,6 +368,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0001-two-sum](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -389,6 +390,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
