@@ -388,4 +388,17 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0053-maximum-subarray) |
+| [1013-fibonacci-number](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1013-fibonacci-number) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
