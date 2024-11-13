@@ -379,6 +379,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0125-valid-palindrome) |
 | [0908-middle-of-the-linked-list](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0908-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
@@ -403,4 +404,8 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1013-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
