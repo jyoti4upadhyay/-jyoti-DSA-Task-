@@ -370,6 +370,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0053-maximum-subarray](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1580-shuffle-the-array) |
 | [1791-richest-customer-wealth](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/2058-concatenation-of-array) |
