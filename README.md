@@ -372,12 +372,14 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1580-shuffle-the-array) |
+| [1635-number-of-good-pairs](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0001-two-sum) |
+| [1635-number-of-good-pairs](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1635-number-of-good-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -404,6 +406,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0050-powx-n](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1635-number-of-good-pairs](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1635-number-of-good-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -425,4 +428,8 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/2058-concatenation-of-array) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
