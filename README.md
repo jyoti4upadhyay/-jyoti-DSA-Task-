@@ -369,6 +369,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0001-two-sum](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0198-house-robber) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1580-shuffle-the-array) |
@@ -398,6 +399,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0053-maximum-subarray](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
