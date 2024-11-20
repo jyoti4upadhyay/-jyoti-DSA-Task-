@@ -370,6 +370,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0053-maximum-subarray](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0198-house-robber) |
+| [0540-single-element-in-a-sorted-array](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0792-binary-search) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -447,5 +448,6 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Binary Search
 |  |
 | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
