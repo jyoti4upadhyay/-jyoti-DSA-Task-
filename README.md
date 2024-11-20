@@ -370,6 +370,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0053-maximum-subarray](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0198-house-robber) |
+| [0287-find-the-duplicate-number](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0792-binary-search) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -394,6 +395,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0125-valid-palindrome) |
+| [0287-find-the-duplicate-number](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0908-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
@@ -448,6 +450,11 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0792-binary-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
