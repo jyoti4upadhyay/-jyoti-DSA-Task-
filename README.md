@@ -373,6 +373,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0287-find-the-duplicate-number](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0792-binary-search) |
+| [0898-transpose-matrix](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0898-transpose-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1505-create-target-array-in-the-given-order) |
@@ -432,10 +433,12 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Matrix
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1791-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1505-create-target-array-in-the-given-order) |
 | [2058-concatenation-of-array](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/2058-concatenation-of-array) |
 ## Counting
