@@ -381,6 +381,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1635-number-of-good-pairs) |
+| [1677-matrix-diagonal-sum](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -436,6 +437,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0898-transpose-matrix](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0898-transpose-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1791-richest-customer-wealth) |
 ## Simulation
 |  |
