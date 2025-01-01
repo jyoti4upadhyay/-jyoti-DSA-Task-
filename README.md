@@ -393,6 +393,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Linked List
 |  |
 | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
