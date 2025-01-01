@@ -432,6 +432,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0125-valid-palindrome) |
 ## Matrix
 |  |
@@ -465,4 +466,8 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0287-find-the-duplicate-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
