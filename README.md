@@ -393,12 +393,14 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0125-valid-palindrome) |
+| [0234-palindrome-linked-list](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0908-middle-of-the-linked-list) |
 ## Divide and Conquer
@@ -424,6 +426,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -470,4 +473,5 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
