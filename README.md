@@ -369,6 +369,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0001-two-sum](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0134-gas-station](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -483,4 +484,8 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0232-implement-queue-using-stacks) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
