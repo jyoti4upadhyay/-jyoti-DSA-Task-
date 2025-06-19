@@ -389,6 +389,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0202-happy-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1635-number-of-good-pairs) |
 ## Linked List
@@ -401,6 +402,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0908-middle-of-the-linked-list) |
@@ -420,6 +422,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0007-reverse-integer](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0263-ugly-number) |
 | [1013-fibonacci-number](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1421-find-numbers-with-even-number-of-digits) |
