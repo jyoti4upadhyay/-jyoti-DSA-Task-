@@ -427,6 +427,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1013-fibonacci-number](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1635-number-of-good-pairs) |
+| [2507-number-of-common-factors](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/2507-number-of-common-factors) |
 ## Recursion
 |  |
 | ------- |
@@ -492,4 +493,12 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0134-gas-station) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/2507-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
