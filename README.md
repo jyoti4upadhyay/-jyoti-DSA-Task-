@@ -406,6 +406,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0202-happy-number](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0908-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
@@ -445,6 +446,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0020-valid-parentheses](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0344-reverse-string) |
 | [0782-jewels-and-stones](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0782-jewels-and-stones) |
 ## Matrix
 |  |
