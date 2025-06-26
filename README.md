@@ -390,6 +390,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0001-two-sum](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0202-happy-number) |
+| [0782-jewels-and-stones](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/1635-number-of-good-pairs) |
 ## Linked List
@@ -444,6 +445,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0020-valid-parentheses](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0125-valid-palindrome) |
+| [0782-jewels-and-stones](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0782-jewels-and-stones) |
 ## Matrix
 |  |
 | ------- |
