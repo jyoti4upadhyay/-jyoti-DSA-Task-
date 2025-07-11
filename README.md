@@ -367,6 +367,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0134-gas-station) |
@@ -474,6 +475,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0792-binary-search) |
