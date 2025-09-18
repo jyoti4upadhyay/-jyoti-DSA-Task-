@@ -367,6 +367,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -447,6 +448,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0344-reverse-string) |
@@ -512,4 +514,8 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/2507-number-of-common-factors) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/jyoti4upadhyay/-jyoti-DSA-Task-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
